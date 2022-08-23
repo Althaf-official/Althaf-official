@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Althaf Sharafudheen</h1>
-<h3 align="center">A passionate frontend React developer</h3>
+<h3 align="center">A passionate react developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=althaf-official&label=Profile%20views&color=0e75b6&style=flat" alt="althaf-official" /> </p>
 
@@ -16,6 +16,8 @@
 - 📝 I regularly write articles on [https://dev.to/mas7587](https://dev.to/mas7587)
 
 - 💬 Ask me about **React,JavaScript**
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="althafsharafudheen" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ae.linkedin.com/in/althafsharafudheen?trk=profile-badge">MUHAMMED ALTHAF</a></div>
+              
 
 - 📫 How to reach me **althaf.sharafudheen@outlook.com**
 
