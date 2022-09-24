@@ -30,6 +30,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<a href="https://stackoverflow.com/users/20074572/althaf-sharafudheen"><img src="https://stackoverflow.com/users/flair/20074572.png" width="208" height="58" alt="profile for Althaf Sharafudheen at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Althaf Sharafudheen at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 <a href="https://dev.to/mas7587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mas7587" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackomuhammed-althaf-sharafudeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackomuhammed-althaf-sharafudeen" height="30" width="40" /></a>
 </p>
