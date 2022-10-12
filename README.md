@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Netflix demo**
 
-- 🌱 I’m currently learning **ReactJS,Data Structure**
+- 🌱 I’m currently learning **Vagrant,Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Althaf-official](https://github.com/Althaf-official)
 
 - 📝 I regularly write articles on [https://dev.to/mas7587](https://dev.to/mas7587)
 
-- 💬 Ask me about **React,JavaScript**
+- 💬 Ask me about **Web development and Web Hosting**
               
 
 - 📫 How to reach me **althaf.sharafudheen@outlook.com**
