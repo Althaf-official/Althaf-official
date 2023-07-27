@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Althaf Sharafudheen</h1>
-<h3 align="center">Mechine Learning</h3>
+<h3 align="center">Python | Mechine Learning| Artificial Intelligence </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=althaf-official&label=Profile%20views&color=0e75b6&style=flat" alt="althaf-official" /> </p>
 
