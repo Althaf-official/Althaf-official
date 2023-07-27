@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Althaf Sharafudheen</h1>
-<h3 align="center">Self thought DevOps Engineer</h3>
+<h3 align="center">Mechine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=althaf-official&label=Profile%20views&color=0e75b6&style=flat" alt="althaf-official" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix demo**
+- 🔭 I’m currently working on **E Commerce App Using python Django**
 
-- 🌱 I’m currently learning **Vagrant,Docker**
+- 🌱 I’m currently learning **ML AI python **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Althaf-official](https://github.com/Althaf-official)
 
