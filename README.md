@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Althaf</h1>
-<h3 align="center">Python | Mechine Learning| Artificial Intelligence </h3>
+<h3 align="center">PYTHON | Mechine Learning| Artificial Intelligence </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=althaf-official&label=Profile%20views&color=0e75b6&style=flat" alt="althaf-official" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **E Commerce App Using python Django**
 
-- 🌱 I’m currently learning **ML AI python **
+- 🌱 I’m currently learning ** DJANGO **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Althaf-official](https://github.com/Althaf-official)
 
@@ -18,7 +18,7 @@
 - 💬 Ask me about **Web development and Web Hosting**
               
 
-- 📫 How to reach me **althaf.sharafudheen@outlook.com**
+- 📫 How to reach me **althaf.jereh@gmail.com**
 
 - 📄 Know about my experiences [https://maswebsolution.github.io/mas/](https://maswebsolution.github.io/mas/)
 
