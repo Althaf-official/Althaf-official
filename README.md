@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **E Commerce App Using python Django**
 
-- 🌱 I’m currently learning ** DJANGO **
+- 🌱 I’m currently learning Machine learning 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Althaf-official](https://github.com/Althaf-official)
 
